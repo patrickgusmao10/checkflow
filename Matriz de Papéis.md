@@ -4,7 +4,7 @@
 
 | Integrante | Papel |
 |---|---|
-| Patrick Gusman | Product Owner (PO) |
+| Patrick Gusmão | Product Owner (PO) |
 | Iago Koch | Engenheiro de Requisitos |
 | Caio Rosa | Quality Assurance (QA) |
 | William Vodzinsky | Desenvolvedor Frontend |
@@ -13,7 +13,7 @@
 
 ## 2. Histórico de Contribuições
 
-### Patrick Gusman — Product Owner (PO)
+### Patrick Gusmão — Product Owner (PO)
 
 **Principais atividades realizadas:**
 - Organização da equipe durante o desenvolvimento da N1;

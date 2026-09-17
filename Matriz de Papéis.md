@@ -134,7 +134,7 @@
 
 | Área / Atividade | Responsável principal |
 |---|---|
-| Organização e priorização do projeto | Patrick Gusman |
+| Organização e priorização do projeto | Patrick Gusmão |
 | Requisitos e documentação de requisitos | Iago Koch |
 | Testes e validação da API | Caio Rosa |
 | Interface e telas do sistema | William Vodzinsky |
